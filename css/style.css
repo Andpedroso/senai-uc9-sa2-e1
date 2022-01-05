@@ -70,3 +70,38 @@ header {
     font-family: 'Trirong', serif;
     font-size: 20px;
 }
+
+.divisor
+{
+    display: flex;
+    align-items: center;
+    background-color: red;
+}
+
+.noticias
+{
+    background-color: black;
+    height: 600px;
+    padding: 20px;
+}
+
+.card
+{
+    color: white;
+    text-align: center;
+    width: 1200px;
+    background-color: grey;
+    margin-left: 60px;
+    padding: 20px;
+}
+
+footer
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 20px;
+    background-color: #1E1C21;
+    color: white;
+    font-family: 'Trirong', serif;
+}
